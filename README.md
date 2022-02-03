@@ -29,3 +29,11 @@ Additionally, you can have the logs for either failed plots, completed plots or 
 
 `LOGDIR: Directory with chia plotter logs, user will be prompted if not passed` 
 
+
+
+
+Obviously, this file only worka on Linux. 
+
+Please forgive any mistakes/non-compliances in the script, I'm still a noob when it comes to bash scripting :) 
+Feel free to use, modify and extend.
+
