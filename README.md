@@ -1,4 +1,4 @@
-# chia_temp_autodelete
+# ChiaTempAutodel
 
 I just got annoyed with the way my temp drive was filling up when plotting got interrupted, so I decided to make this little bash script to clean everything up while not affecting currently running plots.
 
