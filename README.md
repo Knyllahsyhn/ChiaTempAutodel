@@ -32,7 +32,7 @@ Additionally, you can have the logs for either failed plots, completed plots or 
 
 
 
-Obviously, this file only worka on Linux. 
+Obviously, this file only works on Linux. 
 
 Please forgive any mistakes/non-compliances in the script, I'm still a noob when it comes to bash scripting :) 
 Feel free to use, modify and extend.
