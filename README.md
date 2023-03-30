@@ -2,7 +2,7 @@
 
 I just got annoyed with the way my temp drive was filling up when plotting got interrupted, so I decided to make this little bash script to clean everything up while not affecting currently running plots.
 
-### How's it work?
+### How does it work?
 
 The script grabs searches for keywords/expressions in the plot managers log files. Note this has only been tested with the original chia-plotter, I'll try to adapt it for [madmAx](https://github.com/madMAx43v3r/chia-plotter) as well. 
 It will then grab the plot's ID, the PID it's being plotted on and the corresponding temp directory.
